@@ -1,0 +1,450 @@
+NCET KNOWLEDGE BASE
+DATA VALIDATION AND QUALITY ASSURANCE REPORT
+
+Institution: Naraina College of Engineering & Technology (NCET)
+Location: Ratanpur, Panki, Kanpur Nagar, Uttar Pradesh, India.
+Source: Supplied WhatsApp information.
+Processing Date: 17 November 2026.
+
+A. INFORMATION SUCCESSFULLY EXTRACTED
+
+The following information was successfully identified and categorized.
+
+A1. College Profile
+Information	Extracted Value	Status
+Official Name	Naraina College of Engineering & Technology	Provided
+Short Name	NCET	Provided
+Establishment Year	2007	Provided
+Institution Type	Private College	Provided
+Location	Ratanpur, Panki, Kanpur Nagar, Uttar Pradesh	Provided
+PIN Code	208020	Provided
+Address	1423/1, Ratanpur, Panki, Kanpur Nagar – 208020	Provided
+Affiliated University	AKTU, Lucknow	Provided
+Approval	AICTE	Provided
+Academic System	Semester System	Provided
+Official Website	Naraina Group website	Provided
+A2. Courses
+
+Six B.Tech engineering branches were extracted:
+
+Computer Science & Engineering (CSE).
+Artificial Intelligence (AI).
+Artificial Intelligence & Machine Learning (AI & ML).
+Data Science.
+Cyber Security.
+Electronics & Communication Engineering (ECE).
+
+Duration: 4 Years (8 Semesters).
+
+A3. Admission Documents
+
+All 16 listed admission documents were extracted:
+
+Class 10 Marksheet.
+Class 10 Certificate.
+Class 12 Marksheet.
+Class 12 Certificate.
+Aadhaar Card.
+Passport-size Photographs.
+JEE Main Score Card (if applicable).
+Counselling Allotment Letter (if applicable).
+Transfer Certificate (TC).
+Migration Certificate (if applicable).
+Character Certificate.
+Caste Certificate (if applicable).
+Income Certificate.
+Domicile Certificate.
+Bank Passbook.
+Anti-Ragging Undertaking.
+A4. Fee Information
+Fee Category	Extracted Amount
+Yearly Tuition/Fee	₹92,430
+One-time Admission Fee	₹2,000
+AKTU Fee	₹7,511
+Development Fee	No fee reported
+Practical/Lab Fee	No separate charge reported
+Hostel Fee	₹84,000
+ERP Fee	Not provided
+Mess Fee	Not provided
+Transport Fee	Not provided
+A5. Attendance and Academic System
+General attendance requirement: 75%.
+90–100%: Good.
+75–89%: Generally meets the stated minimum examination threshold.
+60–74%: Attendance shortage.
+Below 60%: May create problems in examination eligibility.
+Four academic years.
+Eight semesters.
+CT-1 and CT-2.
+Practical examinations.
+Laboratory work.
+Assignments.
+Presentations.
+Internal/sessional marks.
+AKTU end-semester examinations.
+Semester-wise projects.
+Internship activities.
+A6. Scholarship Information
+
+Extracted scheme:
+
+Uttar Pradesh Post-Matric/Dashmottar Scholarship Scheme.
+
+The 12 listed scholarship application documents were extracted and preserved in fee_structure.txt.
+
+A7. Campus Facilities
+
+The following facilities are mentioned:
+
+Boys Hostel.
+Girls Hostel.
+Computer Labs.
+Central Library.
+Classrooms.
+Practical Laboratories.
+Training and Placement Cell.
+Internship Support.
+Sports and Activities.
+Medical Support.
+A8. Placement Information
+
+Seven companies were extracted:
+
+TCS.
+Wipro.
+HCL.
+Genpact.
+IndiaMART.
+SBI.
+Mahendra Tech.
+
+Training and Placement Cell, internship support and career development assistance were also extracted.
+
+A9. Contact Information
+
+Admission Office
+
+Phone: 9918601145
+Email: admission@narainagroup.net
+
+College Staff
+
+Director: Akash Awasthi — 7607213641.
+HOD: Atul Mathur — 9935054986.
+Faculty: Ankit Agnihotri — 6393192047.
+
+Project Developer
+
+Name: Abhishek Yadav.
+Department: CSE.
+Batch: 2024–2028.
+WhatsApp: +91 94550 09264.
+LinkedIn: https://www.linkedin.com/in/neotechabhiii
+B. MISSING INFORMATION
+
+The following information was not available in the supplied data.
+
+B1. College Information
+Missing Information	Priority
+Official Vision Statement	High
+Official Mission Statement	High
+Detailed College History	Medium
+Accreditation Details	Medium
+Current AICTE Approval Documentation	High
+Current AKTU Affiliation Documentation	High
+Official Academic Calendar	High
+B2. Course Information
+Missing Information	Priority
+Branch-wise Seat Intake	High
+Total B.Tech Seat Intake	High
+Current Session Branch Availability	High
+Detailed Branch-wise Curriculum	Medium
+Other Available Degree Programs	Medium
+B3. Eligibility Information
+Missing Information	Priority
+Minimum Class 12 Percentage	Critical
+Required Class 12 Subjects	Critical
+Minimum Subject-wise Marks	High
+JEE Main Requirement	Critical
+JEE Main Cutoff	High
+Direct Admission Eligibility	High
+Age Restrictions	Medium
+Admission Category Requirements	High
+Diploma/Lateral Entry Eligibility	Medium
+B4. Admission Process
+Missing Information	Priority
+Official Admission Procedure	Critical
+Online Application Link	High
+Offline Application Procedure	High
+Application Fee	High
+Application Start Date	Critical
+Application Last Date	Critical
+Counselling Dates	Critical
+Document Verification Procedure	High
+Admission Confirmation Procedure	High
+Fee Payment Deadline	High
+B5. Fee Structure
+Missing Information	Priority
+ERP Fee Amount	High
+Mess Fee Amount	High
+Transport Fee Amount	Medium
+Semester-wise Fee	High
+Examination Fee	High
+Fee Payment Schedule	High
+Refund Policy	High
+Hostel Fee Period	Critical
+Hostel Security Deposit	Medium
+Scholarship Amount	High
+Category-wise Scholarship Details	High
+Fee Instalment Options	Medium
+B6. Facilities
+Missing Information	Priority
+Hostel Room Sharing	High
+AC/Non-AC Hostel Details	Medium
+Hostel Timings	Medium
+Mess Facilities	High
+Hostel Security Details	High
+Wi-Fi Availability	Medium
+Cafeteria Availability	Medium
+Transport Routes	High
+Transport Fee	Medium
+Library Collection	Medium
+Laboratory Equipment	Medium
+Sports Infrastructure	Medium
+Medical Emergency Arrangements	High
+B7. Placement
+Missing Information	Priority
+Latest Placement Percentage	Critical
+Highest Salary Package	Critical
+Average Salary Package	Critical
+Median Salary Package	High
+Branch-wise Placement Statistics	Critical
+Year-wise Placement Reports	High
+Verified NCET Recruiters	Critical
+Number of Students Placed	High
+Internship Partners	High
+Internship Stipends	Medium
+Placement Training Schedule	Medium
+C. CONFLICTING INFORMATION REQUIRING CONFIRMATION
+
+No direct numerical contradiction between two separate fee figures, course durations or admission requirements was identified.
+
+However, the following discrepancies and ambiguities require administrative confirmation.
+
+C1. College Name Variation
+
+Version 1:
+
+NARAINA COLLEGE OF ENGINEERING
+
+Version 2:
+
+Naraina College of Engineering & Technology
+
+The detailed official profile identifies the institution as Naraina College of Engineering & Technology.
+
+Action Required: Confirm whether the shorter name is an informal reference or an alternative official institutional name.
+
+C2. Yearly Fee and AKTU Fee
+
+Provided figures:
+
+Yearly Tuition/Fee: ₹92,430.
+AKTU Fee: ₹7,511.
+
+Unclear whether the AKTU fee is:
+
+Included in the yearly tuition/fee.
+Payable separately.
+Applicable annually or under another payment schedule.
+
+Action Required: Obtain written confirmation of the fee components and payment frequency.
+
+C3. Hostel Fee
+
+Provided figure:
+
+₹84,000.
+
+Unclear whether this amount is:
+
+Annual.
+Semester-wise.
+For another specified period.
+
+Mess charges are not provided.
+
+Action Required: Confirm the applicable hostel fee period and whether mess charges are separate.
+
+C4. Development Fee and Practical/Lab Fee
+
+Provided statements:
+
+Development Fee: No fee reported.
+Practical/Lab Fee: No separate charge reported.
+
+These statements do not establish that the fees are officially waived.
+
+Action Required: Confirm whether these charges are included in tuition or not applicable.
+
+C5. Placement Companies
+
+The supplied information mentions seven companies in college-group placement and training information.
+
+It does not establish that all seven companies recruit directly from NCET.
+
+Action Required: Obtain independently identifiable NCET-specific placement records and recruiter participation details.
+
+D. INFORMATION THAT IS UNCLEAR OR POTENTIALLY OUTDATED
+
+The following information needs current-session verification.
+
+Course availability: The six B.Tech branches are listed, but current-session availability has not been confirmed.
+Seat intake: Current approved intake is unavailable.
+Fees: The supplied figures have no specified academic session or effective date.
+Eligibility: Current AKTU and college admission requirements have not been supplied.
+Entrance examination: JEE Main is mentioned conditionally, but the complete admission route is unknown.
+Scholarship: Government scholarship eligibility and deadlines may change according to current government rules.
+Attendance: The 75% general attendance requirement should be checked against the applicable current AKTU Ordinance and college rules.
+Placement companies: Historical or group-level company mentions should not be represented as current-year recruitment.
+Facilities: The listed facilities have not been independently verified for current availability and operational status.
+Staff contacts: Names and phone numbers should be verified before operational chatbot deployment.
+Approval and affiliation: Current academic session approval and affiliation documents should be obtained.
+Admission dates: No current admission schedule was supplied.
+E. QUESTIONS TO ASK THE COLLEGE ADMINISTRATION
+
+The following questions are recommended to complete the knowledge base.
+
+E1. College Profile Questions
+What is the exact official registered name of the institution?
+Can the college provide its official vision and mission statements?
+Can the college provide a brief official history?
+Can the current AICTE approval and AKTU affiliation documents be shared?
+Are there any additional accreditations or institutional recognitions?
+E2. Course Questions
+Are all six listed B.Tech branches available for the 2026–2027 academic session?
+What is the approved seat intake for each branch?
+What is the total B.Tech intake?
+Are there any additional courses offered by the institution?
+Is lateral entry available?
+E3. Eligibility Questions
+What is the minimum Class 12 percentage required for B.Tech admission?
+Which Class 12 subjects are compulsory?
+Is Mathematics compulsory for all branches?
+Is Physics compulsory?
+Is JEE Main mandatory for admission?
+What are the accepted entrance examinations?
+What is the minimum JEE Main cutoff, if applicable?
+Is direct admission available?
+Are there separate eligibility criteria for different admission categories?
+Are there any age restrictions?
+What are the lateral-entry eligibility requirements?
+E4. Admission Process Questions
+What is the official step-by-step admission procedure?
+Where can students obtain the admission application form?
+Is the application process online or offline?
+What is the application fee?
+What is the admission start date for 2026–2027?
+What is the last date to apply?
+What is the counselling procedure?
+Which counselling authority handles admissions?
+What are the document verification requirements?
+What is the official admission confirmation procedure?
+E5. Fee Questions
+Is ₹92,430 the complete yearly tuition fee?
+Is the ₹7,511 AKTU fee included in ₹92,430?
+How frequently is the AKTU fee collected?
+Is the ₹2,000 admission fee charged only once?
+Is the hostel fee of ₹84,000 annual or for another period?
+Does the hostel fee include mess charges?
+What is the exact ERP fee?
+What is the mess fee?
+What is the transport fee?
+Are there any examination or other mandatory charges?
+What is the fee refund policy?
+Are instalment payment options available?
+What are the current 2026–2027 fee amounts?
+E6. Scholarship Questions
+Does the college provide any institutional scholarships?
+What assistance is available for UP Post-Matric/Dashmottar scholarship applicants?
+Is there a college scholarship department?
+Are there any merit-based scholarships?
+Are there any fee concessions for eligible categories?
+What is the scholarship verification procedure?
+E7. Facility Questions
+What are the hostel room-sharing arrangements?
+Are AC and non-AC rooms available?
+What is the hostel fee duration?
+Is mess facility available?
+Is Wi-Fi available in the hostel?
+What are the hostel timings and security arrangements?
+What are the available transport routes?
+Is a cafeteria available?
+What are the library facilities and operating hours?
+What specialized laboratories are available for each department?
+What sports facilities are available?
+What medical facilities are available on campus?
+Is emergency medical assistance available?
+E8. Placement Questions
+What was the placement percentage for the latest completed academic year?
+What was the highest salary package?
+What was the average salary package?
+What was the median salary package?
+How many students were eligible for placements?
+How many students were placed?
+Which companies recruited specifically from NCET?
+Which companies visited during the latest placement season?
+Are branch-wise placement statistics available?
+What internship opportunities are provided?
+Are paid internships available?
+What placement training programs are offered?
+F. RECOMMENDED PRIORITY FOR DATA COLLECTION
+Priority	Information to Collect	Reason
+Critical	Eligibility criteria	Required to answer admission questions accurately
+Critical	Current admission dates	Time-sensitive admission information
+Critical	Branch-wise seat intake	Required for course availability enquiries
+Critical	Official fee breakdown	Prevents incorrect fee quotations
+Critical	JEE Main and counselling requirements	Required for admission guidance
+High	Placement statistics	Important for student decision-making
+High	Hostel and mess details	Important for outstation students
+High	Official vision and mission	Completes institutional profile
+High	Scholarship details	Helps students understand financial assistance
+Medium	Detailed laboratory information	Improves academic guidance
+Medium	Sports and extracurricular facilities	Improves campus information
+Medium	Transport routes	Helps students plan commuting
+G. FINAL KNOWLEDGE BASE QUALITY ASSESSMENT
+
+Processing Status: Completed.
+
+Source: User-provided WhatsApp information.
+
+Documents Prepared:
+
+college_info.txt
+courses.txt
+eligibility.txt
+admission_process.txt
+fee_structure.txt
+facilities.txt
+placement.txt
+data_validation_report.txt
+
+Data Integrity Rules Applied:
+
+No unsupported college facts were introduced.
+Original course names and fee amounts were preserved.
+Missing information was explicitly marked.
+Incomplete information was distinguished from unavailable information.
+Ambiguous fee components were not combined into an official total.
+Conditional documents were identified.
+College-group placement references were not represented as verified NCET-specific placements.
+Official admission contacts were distinguished from student project support contacts.
+FINAL RECOMMENDATION
+
+The eight documents can serve as an initial knowledge base for the NCET admission guidance chatbot.
+
+However, before production deployment, the college administration should verify current admission eligibility, approved seat intake, 2026–2027 fee structure, admission dates, and placement statistics.
+
+The chatbot should use the supplied knowledge base as its primary information source and explicitly communicate when verified information is unavailable.
+
+End of Data Validation Report.

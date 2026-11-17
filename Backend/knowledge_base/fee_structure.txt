@@ -1,0 +1,193 @@
+NCET FEE STRUCTURE KNOWLEDGE BASE
+1. College Information
+
+College: Naraina College of Engineering & Technology (NCET)
+Location: Ratanpur, Panki, Kanpur Nagar, Uttar Pradesh – 208020.
+Admission Contact: 9918601145
+Email: admission@narainagroup.net
+
+2. Supplied Fee Structure
+
+The following fee figures have been provided in the college information.
+
+S. No.	Fee Category	Amount / Status
+1	Yearly Tuition/Fee	₹92,430
+2	One-time Admission Fee	₹2,000
+3	AKTU Fee	₹7,511
+4	Development Fee	No fee reported
+5	Practical/Lab Fee	No separate charge reported
+6	Hostel Fee	₹84,000
+7	ERP Fee	Amount not provided
+8	Mess Fee	Amount not provided
+9	Transport Fee	Amount not provided
+3. Fee Details
+3.1 Yearly Tuition/Fee
+
+Amount: ₹92,430
+
+Fee period: Yearly.
+
+This is the supplied yearly tuition/fee figure. Current admission-session applicability must be confirmed.
+
+3.2 One-Time Admission Fee
+
+Amount: ₹2,000
+
+Payment frequency: One-time.
+
+3.3 AKTU Fee
+
+Amount: ₹7,511
+
+The exact fee components, payment frequency and whether this amount is included in the yearly fee: [INFORMATION INCOMPLETE]
+
+3.4 Development Fee
+
+Status: No fee reported.
+
+Whether this fee is permanently waived or simply not separately charged: [INFORMATION INCOMPLETE]
+
+3.5 Practical/Lab Fee
+
+Status: No separate charge reported.
+
+Whether practical/laboratory expenses are included in another fee component: [INFORMATION INCOMPLETE]
+
+3.6 Hostel Fee
+
+Amount: ₹84,000
+
+Applicable fee period: [INFORMATION INCOMPLETE]
+
+Hostel fee inclusions: [NOT PROVIDED]
+
+The chatbot must not assume that mess charges are included in the hostel fee.
+
+3.7 ERP Fee
+
+Amount: [NOT PROVIDED]
+
+Students should contact the admission office for the exact amount.
+
+3.8 Mess Fee
+
+Amount: [NOT PROVIDED]
+
+The chatbot must not assume that mess charges are included in the hostel fee.
+
+3.9 Transport Fee
+
+Amount: [NOT PROVIDED]
+
+Transport routes and fee details: [NOT PROVIDED]
+
+4. Course-Wise Fee Information
+
+The supplied fee information does not provide separate fee amounts for individual B.Tech branches.
+
+B.Tech Branch	Supplied Yearly Tuition/Fee
+Computer Science & Engineering (CSE)	₹92,430 (course-specific applicability not confirmed)
+Artificial Intelligence (AI)	₹92,430 (course-specific applicability not confirmed)
+Artificial Intelligence & Machine Learning (AI & ML)	₹92,430 (course-specific applicability not confirmed)
+Data Science	₹92,430 (course-specific applicability not confirmed)
+Cyber Security	₹92,430 (course-specific applicability not confirmed)
+Electronics & Communication Engineering (ECE)	₹92,430 (course-specific applicability not confirmed)
+
+IMPORTANT:
+
+The ₹92,430 amount is supplied as the yearly tuition/fee figure. Branch-wise fee confirmation is not available. Do not represent these entries as independently verified branch-specific fees.
+
+5. Semester-Wise Fees
+
+Semester-wise tuition fee: [NOT PROVIDED]
+
+Semester-wise AKTU fee: [NOT PROVIDED]
+
+Semester-wise examination fee: [NOT PROVIDED]
+
+Payment schedule and due dates: [NOT PROVIDED]
+
+6. Hostel Fees
+
+Supplied hostel fee: ₹84,000.
+
+The following details are unavailable:
+
+Applicable fee period.
+Room-sharing arrangements.
+Hostel security deposit.
+Mess charges.
+Electricity charges.
+Other hostel-related charges.
+Refund policy.
+7. Scholarships and Financial Assistance
+
+Eligible B.Tech students may receive financial assistance under the Uttar Pradesh Post-Matric/Dashmottar Scholarship Scheme.
+
+Scholarship approval depends on applicable government rules and the verification process.
+
+The college information does not provide:
+
+Guaranteed scholarship amount.
+Category-wise scholarship amounts.
+Family income limits.
+Institutional scholarship amount.
+Scholarship disbursement schedule.
+Scholarship approval guarantee.
+Scholarship Application Documents
+Aadhaar Card.
+Income Certificate.
+Caste Certificate (if applicable).
+Domicile Certificate.
+Class 10 Marksheet.
+Class 12 Marksheet.
+Current Year Fee Receipt.
+College Admission Details.
+Enrollment Number.
+Bank Passbook.
+Aadhaar-linked Bank Account.
+Previous Year Scholarship Registration Number (for renewal).
+
+Students should check the official UP Scholarship Portal for current application rules, deadlines and eligibility.
+
+Students should also contact the college scholarship department for institutional guidance.
+
+8. Fee Payment and Refund Information
+
+Accepted payment methods: [NOT PROVIDED]
+
+Online payment procedure: [NOT PROVIDED]
+
+Offline payment procedure: [NOT PROVIDED]
+
+Fee instalment options: [NOT PROVIDED]
+
+Late payment charges: [NOT PROVIDED]
+
+Fee refund policy: [NOT PROVIDED]
+
+Security deposit refund rules: [NOT PROVIDED]
+
+9. Important Fee Accuracy Rules
+Never invent missing fee amounts.
+Do not assume the hostel fee includes mess charges.
+Do not assume the AKTU fee is included in the yearly fee.
+Do not calculate an official total payable amount unless the college confirms which components are additional.
+Do not describe unreported fees as waived or free.
+Always mention that the supplied figures must be verified for the relevant admission session.
+10. Standard Response for Unknown Fees
+
+When a student asks about an unavailable fee, use this response:
+
+"The exact amount for this fee is not available in my current college information. Please contact the admission office at 9918601145 or admission@narainagroup.net for confirmation."
+
+11. Admission Office Contact
+
+Phone: 9918601145
+
+Email: admission@narainagroup.net
+
+Address: 1423/1, Ratanpur, Panki, Kanpur Nagar – 208020.
+
+Official Website:
+https://www.narainagroup.ac.in/page/Naraina-College-of-Engineering-and-Technology

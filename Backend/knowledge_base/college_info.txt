@@ -1,0 +1,161 @@
+NARAINA COLLEGE OF ENGINEERING & TECHNOLOGY (NCET)
+COLLEGE INFORMATION KNOWLEDGE BASE
+1. Official College Profile
+
+Official College Name: Naraina College of Engineering & Technology
+Short Name: NCET
+Institution Type: Private College
+Establishment Year: 2007
+Location: Ratanpur, Panki, Kanpur Nagar, Uttar Pradesh, India
+PIN Code: 208020
+
+Affiliated University: Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow
+Approval: All India Council for Technical Education (AICTE)
+Academic System: Semester System
+
+2. College Address
+
+1423/1, Ratanpur, Panki, Kanpur Nagar – 208020, Uttar Pradesh, India.
+
+3. Official Website
+
+https://www.narainagroup.ac.in/page/Naraina-College-of-Engineering-and-Technology
+
+The official website contains a Mandatory Disclosures section.
+
+Students requesting official mandatory disclosures should be directed to the above website. The contents of individual disclosure documents are not available in the supplied information.
+
+4. College History
+The college was established in 2007.
+The institution is identified as a private engineering college.
+The supplied information identifies Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow, as its affiliated university.
+
+Detailed historical information about the college's founding, development, previous achievements and institutional milestones: [NOT PROVIDED]
+
+5. Vision and Mission
+
+Official institutional vision: [NOT PROVIDED]
+
+Official institutional mission: [NOT PROVIDED]
+
+The chatbot must not generate or assume official vision and mission statements.
+
+6. Affiliations and Approvals
+Affiliated University: Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow.
+Approval: AICTE (All India Council for Technical Education).
+
+Additional accreditation details, accreditation grades and approval validity for the current academic session: [NOT PROVIDED]
+
+7. Academic Information
+Academic System: Semester System.
+B.Tech Duration: 4 Years.
+Total Semesters: 8.
+Semesters per Academic Year: 2.
+Academic activities include class tests, practical examinations, laboratory work, assignments, presentations, internal/sessional assessments, AKTU end-semester examinations, semester-wise projects and internship activities.
+8. Attendance Information
+
+General Attendance Requirement: 75%
+
+Attendance classification supplied:
+
+Attendance	Status
+90–100%	Good
+75–89%	Generally meets the stated minimum examination threshold
+60–74%	Attendance shortage; special permission or applicable rules may apply
+Below 60%	May create problems in examination eligibility
+
+Important conditions:
+
+Low attendance may affect internal and external examinations.
+Condonation or special relaxation depends on applicable college rules and the current AKTU Ordinance.
+Examination eligibility below 75% must not be guaranteed.
+Students with attendance-related concerns should contact the college administration.
+9. College Admission Office
+
+Phone: 9918601145
+Email: admission@narainagroup.net
+
+Address:
+1423/1, Ratanpur, Panki, Kanpur Nagar – 208020.
+
+Website:
+https://www.narainagroup.ac.in/page/Naraina-College-of-Engineering-and-Technology
+
+For admission, fee, eligibility and administrative confirmation, students should contact the official admission office.
+
+10. College Staff Contacts
+Position	Name	Contact Number
+Director	Akash Awasthi	7607213641
+Head of Department (HOD)	Atul Mathur	9935054986
+Faculty	Ankit Agnihotri	6393192047
+
+These are individual staff contacts and must not be confused with the official admission office number.
+
+Staff availability and office hours: [NOT PROVIDED]
+
+11. Institutional Information Not Available
+Official vision and mission statements: [NOT PROVIDED]
+Detailed college history: [NOT PROVIDED]
+Accreditation details beyond AICTE approval: [NOT PROVIDED]
+Current academic calendar: [NOT PROVIDED]
+Current session's approval and affiliation documentation: [NOT PROVIDED]
+OTHER_INFORMATION
+A. Project Developer and Student Support
+
+The NCET AI Chatbot project was developed by:
+
+Name: Abhishek Yadav
+Department: Computer Science & Engineering (CSE)
+Academic Year: 3rd Year
+Batch: 2024–2028
+
+LinkedIn:
+https://www.linkedin.com/in/neotechabhiii
+
+WhatsApp:
++91 94550 09264
+
+Students may contact Abhishek for:
+
+Additional general information.
+General student guidance.
+Chatbot-related feedback.
+Assistance with college-related queries.
+Senior-student guidance.
+
+IMPORTANT:
+
+Abhishek Yadav is a student project developer and support contact. He is NOT an official admission authority.
+
+For official admission, fee, eligibility and administrative confirmation, students must contact the NCET admission office:
+
+Phone: 9918601145
+Email: admission@narainagroup.net
+
+B. Chatbot Student Guidance Principles
+
+The chatbot should:
+
+Greet students politely.
+Identify the student's information requirements.
+Provide relevant information from the college knowledge base.
+Guide students towards the appropriate college department when necessary.
+Clearly disclose unavailable or unverified information.
+
+The chatbot must never request:
+
+Aadhaar numbers or confidential Aadhaar information.
+Passwords.
+OTPs.
+Confidential banking credentials.
+C. College Name Clarification
+
+The supplied information contains the heading:
+
+"NARAINA COLLEGE OF ENGINEERING"
+
+The official college profile identifies:
+
+"Naraina College of Engineering & Technology"
+
+The official name should be confirmed with the administration before using the shorter name as an alternative official identity.

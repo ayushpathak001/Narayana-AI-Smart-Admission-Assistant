@@ -1,0 +1,220 @@
+NCET ADMISSION PROCESS KNOWLEDGE BASE
+1. College Information
+
+College: Naraina College of Engineering & Technology (NCET)
+Location: 1423/1, Ratanpur, Panki, Kanpur Nagar – 208020.
+University: Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow.
+Website: https://www.narainagroup.ac.in/page/Naraina-College-of-Engineering-and-Technology
+
+2. Available B.Tech Branches
+Computer Science & Engineering (CSE).
+Artificial Intelligence (AI).
+Artificial Intelligence & Machine Learning (AI & ML).
+Data Science.
+Cyber Security.
+Electronics & Communication Engineering (ECE).
+
+Duration: 4 Years (8 Semesters).
+
+Current admission-session availability must be confirmed with the college.
+
+3. Admission Procedure
+
+The supplied information identifies admission-related documents and mentions JEE Main and counselling allotment documents where applicable.
+
+A complete officially verified step-by-step admission procedure: [INFORMATION INCOMPLETE]
+
+The chatbot may provide the following information checklist, but must not present it as a confirmed official sequence:
+
+Step 1: Select the Preferred Course
+
+Students can enquire about the six listed B.Tech engineering branches.
+
+Step 2: Confirm Eligibility
+
+Students should confirm educational qualifications, minimum percentage, subject requirements and entrance examination conditions with the admission office.
+
+Detailed eligibility criteria: [NOT PROVIDED]
+
+Step 3: Confirm Entrance Examination Requirements
+
+JEE Main Score Card is listed as a document where applicable.
+
+Exact entrance examination requirements and admission routes: [INFORMATION INCOMPLETE]
+
+Step 4: Confirm Counselling Requirements
+
+Counselling Allotment Letter is listed where applicable.
+
+Detailed counselling procedure: [NOT PROVIDED]
+
+Step 5: Prepare Admission Documents
+
+Students should prepare the documents listed in Section 4.
+
+Step 6: Contact the Admission Office
+
+Students should contact the admission office to confirm the application procedure, current fees, available seats and document submission requirements.
+
+Step 7: Confirm Admission
+
+Official application submission, verification, fee payment and admission confirmation procedures: [NOT PROVIDED]
+
+The chatbot must not claim that an application has been submitted, approved or confirmed.
+
+4. Required Admission Documents
+
+The following documents are listed in the supplied college information.
+
+S. No.	Document	Condition
+1	Class 10 Marksheet	Listed
+2	Class 10 Certificate	Listed
+3	Class 12 Marksheet	Listed
+4	Class 12 Certificate	Listed
+5	Aadhaar Card	Listed
+6	Passport-size Photographs	Listed
+7	JEE Main Score Card	If applicable
+8	Counselling Allotment Letter	If applicable
+9	Transfer Certificate (TC)	Listed
+10	Migration Certificate	If applicable
+11	Character Certificate	Listed
+12	Caste Certificate	If applicable
+13	Income Certificate	Listed
+14	Domicile Certificate	Listed
+15	Bank Passbook	Listed
+16	Anti-Ragging Undertaking	Listed
+
+IMPORTANT:
+
+The list contains both general and conditional documents.
+Do not claim that every document is mandatory for every applicant.
+Final document requirements must be confirmed with the admission office.
+5. Entrance Examination Information
+
+JEE Main Score Card: Listed where applicable.
+
+Exact entrance examination requirements: [INFORMATION INCOMPLETE]
+
+JEE Main application dates: [NOT PROVIDED]
+
+Examination dates: [NOT PROVIDED]
+
+Minimum qualifying score: [NOT PROVIDED]
+
+Counselling schedule: [NOT PROVIDED]
+
+Other accepted entrance examinations: [NOT PROVIDED]
+
+6. Important Admission Dates
+Admission Event	Date
+Application Start Date	[NOT PROVIDED]
+Application Last Date	[NOT PROVIDED]
+Counselling Start Date	[NOT PROVIDED]
+Counselling Last Date	[NOT PROVIDED]
+Document Verification Date	[NOT PROVIDED]
+Fee Payment Deadline	[NOT PROVIDED]
+Academic Session Start Date	[NOT PROVIDED]
+
+Students should confirm current dates with the admission office.
+
+7. Application Process
+
+Online application procedure: [NOT PROVIDED]
+
+Offline application procedure: [NOT PROVIDED]
+
+Application form download link: [NOT PROVIDED]
+
+Application fee: [NOT PROVIDED]
+
+Application submission method: [NOT PROVIDED]
+
+Application tracking procedure: [NOT PROVIDED]
+
+The chatbot must not claim to submit applications on behalf of students.
+
+8. Admission Contact Information
+
+Admission Office Phone: 9918601145
+
+Admission Office Email: admission@narainagroup.net
+
+College Address:
+1423/1, Ratanpur, Panki, Kanpur Nagar – 208020, Uttar Pradesh, India.
+
+Official Website:
+https://www.narainagroup.ac.in/page/Naraina-College-of-Engineering-and-Technology
+
+Students should use the official admission contact for:
+
+Admission enquiries.
+Course availability.
+Eligibility confirmation.
+Current admission dates.
+Counselling information.
+Document verification.
+Fee confirmation.
+9. Other College Staff Contacts
+Position	Name	Phone
+Director	Akash Awasthi	7607213641
+HOD	Atul Mathur	9935054986
+Faculty	Ankit Agnihotri	6393192047
+
+Provide staff contacts only when relevant. Do not present individual staff numbers as the official admission office number.
+
+10. Student Admission Guidance
+
+When a student requests admission information:
+
+Greet the student politely.
+Ask which B.Tech branch they are interested in.
+Explain available branches.
+Share verified eligibility and fee information where available.
+Provide the admission document checklist.
+Refer unverified admission requirements to the admission office.
+
+Example:
+
+Student: Hello, I want admission in NCET.
+
+Assistant: Hello! Welcome to Naraina College of Engineering & Technology (NCET), Kanpur.
+
+I'd be happy to help you with admission information.
+
+The supplied information lists these B.Tech branches:
+
+Computer Science & Engineering.
+Artificial Intelligence.
+AI & Machine Learning.
+Data Science.
+Cyber Security.
+Electronics & Communication Engineering.
+
+Are you looking for B.Tech admission information or details about a particular branch?
+
+11. Privacy and Security Rules
+
+The chatbot must never ask students to share:
+
+OTPs.
+Passwords.
+Confidential banking credentials.
+Aadhaar numbers or confidential Aadhaar information.
+
+The chatbot must not pretend to access college admission databases or student application records.
+
+12. Missing Admission Information
+
+The following details must be obtained from the college:
+
+Official step-by-step admission procedure.
+Application form and submission link.
+Online/offline application process.
+Application fee.
+Complete course eligibility criteria.
+Accepted entrance examinations.
+Counselling process.
+Admission dates and deadlines.
+Current branch-wise seat availability.
+Document verification procedure.
+Official admission confirmation procedure.

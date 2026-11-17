@@ -1,0 +1,129 @@
+NCET COURSES AND PROGRAMS KNOWLEDGE BASE
+1. Available Degree Program
+
+Degree: Bachelor of Technology (B.Tech)
+Institution: Naraina College of Engineering & Technology (NCET)
+Duration: 4 Years
+Total Semesters: 8
+Academic System: Semester System
+Affiliated University: Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow.
+
+2. Available B.Tech Engineering Branches
+
+The supplied college information lists the following six engineering branches:
+
+2.1 Computer Science & Engineering (CSE)
+
+Full Name: Computer Science & Engineering
+Abbreviation: CSE
+Degree: B.Tech
+Duration: 4 Years (8 Semesters).
+
+2.2 Artificial Intelligence (AI)
+
+Full Name: Artificial Intelligence
+Abbreviation: AI
+Degree: B.Tech
+Duration: 4 Years (8 Semesters).
+
+2.3 Artificial Intelligence & Machine Learning (AI & ML)
+
+Full Name: Artificial Intelligence & Machine Learning
+Abbreviation: AI & ML
+Degree: B.Tech
+Duration: 4 Years (8 Semesters).
+
+2.4 Data Science
+
+Full Name: Data Science
+Abbreviation: Data Science
+Degree: B.Tech
+Duration: 4 Years (8 Semesters).
+
+2.5 Cyber Security
+
+Full Name: Cyber Security
+Abbreviation: Cyber Security
+Degree: B.Tech
+Duration: 4 Years (8 Semesters).
+
+2.6 Electronics & Communication Engineering (ECE)
+
+Full Name: Electronics & Communication Engineering
+Abbreviation: ECE
+Degree: B.Tech
+Duration: 4 Years (8 Semesters).
+
+3. Course Summary
+S. No.	Course / Branch	Degree	Duration
+1	Computer Science & Engineering (CSE)	B.Tech	4 Years
+2	Artificial Intelligence (AI)	B.Tech	4 Years
+3	Artificial Intelligence & Machine Learning (AI & ML)	B.Tech	4 Years
+4	Data Science	B.Tech	4 Years
+5	Cyber Security	B.Tech	4 Years
+6	Electronics & Communication Engineering (ECE)	B.Tech	4 Years
+4. Course Structure
+Academic duration: Four academic years.
+Semesters per academic year: Two.
+Total semesters: Eight.
+Academic system: Semester System.
+
+The supplied academic activities include:
+
+CT-1 (Class Test 1).
+CT-2 (Class Test 2).
+Practical Examinations.
+Laboratory Work.
+Assignments.
+Presentations.
+Internal/Sessional Marks.
+AKTU End-Semester Examinations.
+Semester-wise Projects.
+Internship Activities.
+5. Seat Intake Information
+
+Branch-wise seat intake: [NOT PROVIDED]
+
+Total B.Tech seat intake: [NOT PROVIDED]
+
+Current academic session's approved intake: [NOT PROVIDED]
+
+Students must confirm current branch availability and seat intake with the college admission office.
+
+6. Additional Course Information
+Information	Status
+B.Tech degree	Provided
+Six engineering branches	Provided
+Course duration	4 Years
+Semester count	8
+Branch-wise seats	[NOT PROVIDED]
+Branch-wise curriculum	[NOT PROVIDED]
+Specialization-wise intake	[NOT PROVIDED]
+Other undergraduate programs	[NOT PROVIDED]
+Postgraduate programs	[NOT PROVIDED]
+Diploma programs	[NOT PROVIDED]
+7. Important Chatbot Instructions
+
+When students ask about available branches, provide all six branches listed above.
+
+Explain full forms when requested.
+
+Explain basic differences between branches when requested, but do not present unverified college-specific curriculum details as official information.
+
+Do not invent:
+
+Seat intake.
+Branch-specific fees.
+Branch-specific eligibility cutoffs.
+Placement statistics.
+Current session availability.
+
+Current branch availability and intake must be confirmed with the NCET admission office.
+
+8. Admission Contact
+
+Phone: 9918601145
+Email: admission@narainagroup.net
+
+Official Website:
+https://www.narainagroup.ac.in/page/Naraina-College-of-Engineering-and-Technology
