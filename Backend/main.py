@@ -1,6 +1,8 @@
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 
+import time 
+
 from pydantic import BaseModel, Field
 
 from langchain_nvidia_ai_endpoints import NVIDIAEmbeddings
@@ -295,183 +297,115 @@ Never sacrifice accuracy just to provide an answer.
 # ==========================================
 
 @app.post("/chat", response_model=ChatResponse)
-
 def chat(request: ChatRequest):
 
     try:
 
-        # Generate or retrieve session ID
+        total_start = time.perf_counter()
 
         session_id = request.session_id or str(uuid4())
 
         user_input = request.message.strip()
 
         if not user_input:
-
             raise HTTPException(
                 status_code=400,
                 detail="Message cannot be empty."
             )
 
-        # Initialize session if new
-
         if session_id not in chat_sessions:
-
             chat_sessions[session_id] = []
 
         messages = chat_sessions[session_id]
 
-
-        # ==================================
-        # Retrieve relevant context
-        # ==================================
+        # 1. Retrieval timing
+        retrieval_start = time.perf_counter()
 
         context = get_content(user_input)
 
+        retrieval_time = time.perf_counter() - retrieval_start
 
-        # Prepare retrieved context
-
+        # 2. Prepare context
         context_text = "\n\n".join(
-
-            [
-                chunk["page_content"]
-
-                for chunk in context
-
-                if chunk.get("page_content")
-
-            ]
-
+            chunk["page_content"]
+            for chunk in context
+            if chunk.get("page_content")
         )
-
-
-        # ==================================
-        # Prepare system prompt
-        # ==================================
 
         SYSTEM_PROMPT = get_system_prompt(context_text)
 
-
-        # ==================================
-        # Prepare conversation messages
-        # ==================================
-
         current_messages = [
-
             {
                 "role": "system",
-
                 "content": SYSTEM_PROMPT
-
             }
-
         ]
-
-
-        # Add previous conversation
 
         current_messages.extend(messages[-6:])
 
-
-        # Add current user question
-
         current_messages.append({
-
             "role": "user",
-
             "content": user_input
-
         })
 
-
-        # ==================================
-        # Generate AI response
-        # ==================================
+        # 3. LLM timing
+        llm_start = time.perf_counter()
 
         response = client.chat.completions.create(
-
             model="openai/gpt-oss-20b",
-
             messages=current_messages,
-
-            temperature=0.4,
-
-            max_tokens=700
-
+            temperature=0.3,
+            max_tokens=300
         )
 
+        llm_time = time.perf_counter() - llm_start
 
         assistant_response = response.choices[0].message.content
 
-
         if not assistant_response or not assistant_response.strip():
-
             raise HTTPException(
-
                 status_code=500,
-
                 detail="AI returned an empty response."
-
             )
 
-
-        # ==================================
-        # Save conversation history
-        # ==================================
-
-        messages.append({
-
-            "role": "user",
-
-            "content": user_input
-
-        })
-
-
-        messages.append({
-
-            "role": "assistant",
-
-            "content": assistant_response
-
-        })
-
-
-        # Maintain recent history
+        messages.extend([
+            {
+                "role": "user",
+                "content": user_input
+            },
+            {
+                "role": "assistant",
+                "content": assistant_response
+            }
+        ])
 
         chat_sessions[session_id] = messages[-6:]
 
+        total_time = time.perf_counter() - total_start
 
-        # ==================================
-        # Return response
-        # ==================================
+        # 4. Print execution times
+        print("\n========== PERFORMANCE REPORT ==========")
+        print(f"Retrieval Time : {retrieval_time:.2f} seconds")
+        print(f"LLM Time       : {llm_time:.2f} seconds")
+        print(f"Total Time     : {total_time:.2f} seconds")
+        print("========================================\n")
 
         return ChatResponse(
-
             session_id=session_id,
-
             response=assistant_response
-
         )
 
-
     except HTTPException:
-
         raise
-
 
     except Exception as e:
 
         print("CHAT ERROR:", str(e))
 
         raise HTTPException(
-
             status_code=500,
-
-            detail="Something went wrong. Please try again later."
-
+            detail="Something went wrong. Please try again."
         )
-
 
 # ==========================================
 # 13. CLEAR CHAT SESSION
@@ -526,3 +460,6 @@ def health():
         "service": "NCET Admission Assistant"
 
     }
+
+
+
