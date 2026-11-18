@@ -106,7 +106,7 @@ embeddings = NVIDIAEmbeddings(
 vector_db = QdrantVectorStore.from_existing_collection(
 
     url=QDRANT_URL,
-
+    api_key=os.getenv("QDRANT_API_KEY"),
     collection_name=COLLECTION_NAME,
 
     embedding=embeddings

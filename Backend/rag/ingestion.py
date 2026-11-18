@@ -12,9 +12,10 @@ from langchain_qdrant import QdrantVectorStore
 
 load_dotenv()
 
-# Configuration
+# Configuration (Grab from environment variables / .env)
 KNOWLEDGE_BASE_PATH = "knowledge_base"
-QDRANT_URL = "http://localhost:6333"
+QDRANT_URL = os.getenv("QDRANT_URL")
+QDRANT_API_KEY = os.getenv("QDRANT_API_KEY")
 COLLECTION_NAME = "ncet_knowledge"
 
 
@@ -68,11 +69,12 @@ def store_in_qdrant(chunks, embeddings):
         documents=chunks,
         embedding=embeddings,
         url=QDRANT_URL,
+        api_key=QDRANT_API_KEY,  # Added this for Qdrant Cloud auth
         collection_name=COLLECTION_NAME,
         force_recreate=True
     )
 
-    print("Documents successfully stored in Qdrant!")
+    print("Documents successfully stored in Qdrant Cloud!")
 
     return vector_store
 
@@ -87,3 +89,9 @@ if __name__ == "__main__":
     embeddings = get_embeddings()
 
     vector_store = store_in_qdrant(chunks, embeddings)
+
+
+
+
+
+    
