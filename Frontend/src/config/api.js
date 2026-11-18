@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // Single source of truth for the backend URL. Set VITE_API_BASE_URL in .env.
-const rawBaseUrl = import.meta.env.VITE_API_BASE_URL || 'http://127.0.0.1:8000';
+const rawBaseUrl = import.meta.env.VITE_API_BASE_URL || 'https://ncet-565c.onrender.com/';
 
 export const API_BASE_URL = rawBaseUrl.replace(/\/+$/, '');
 

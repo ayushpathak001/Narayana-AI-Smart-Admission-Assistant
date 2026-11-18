@@ -58,7 +58,7 @@ app = FastAPI(
 # ==========================================
 
 frontend_origins = [
-    "http://localhost:3000",
+    "https://ncet-assist.vercel.app",
     "http://localhost:5173"
 ]
 
