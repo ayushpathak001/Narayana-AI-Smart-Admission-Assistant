@@ -26,6 +26,8 @@ load_dotenv()
 
 API_KEY = os.getenv("NVIDIA_API_KEY")
 
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+
 QDRANT_URL = os.getenv(
     "QDRANT_URL",
     "http://localhost:6333"
@@ -37,7 +39,7 @@ COLLECTION_NAME = os.getenv(
 )
 
 if not API_KEY:
-    raise ValueError("NVIDIA API key not found in .env")
+    raise ValueError("GROK API key not found in .env")
 
 
 # ==========================================
@@ -77,12 +79,13 @@ app.add_middleware(
 
 
 # ==========================================
-# 4. NVIDIA CLIENT
+# 4. GROQ LLM CLIENT
 # ==========================================
 
 client = OpenAI(
-    base_url="https://integrate.api.nvidia.com/v1",
-    api_key=API_KEY
+    base_url="https://api.groq.com/openai/v1",
+    api_key=GROQ_API_KEY,
+    timeout=60.0
 )
 
 
