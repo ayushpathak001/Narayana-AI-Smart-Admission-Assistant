@@ -71,12 +71,17 @@ def store_in_qdrant(chunks, embeddings):
         url=QDRANT_URL,
         api_key=QDRANT_API_KEY,  # Added this for Qdrant Cloud auth
         collection_name=COLLECTION_NAME,
-        force_recreate=True
+        force_recreate=True,
+        timeout=60,       # Increase HTTP timeout from 5s to 60s
+        batch_size=10,    # Upload 10 chunks at a time instead of all 63 at once
     )
 
     print("Documents successfully stored in Qdrant Cloud!")
 
     return vector_store
+
+
+
 
 
 # Main execution
@@ -94,4 +99,3 @@ if __name__ == "__main__":
 
 
 
-    
