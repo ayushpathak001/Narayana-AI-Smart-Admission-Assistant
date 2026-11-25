@@ -94,7 +94,7 @@ client = OpenAI(
 # ==========================================
 
 embeddings = NVIDIAEmbeddings(
-    model="nvidia/nemotron-3-embed-1b",
+    model="nvidia/nemotron-3.5-embed-1b",
     api_key=API_KEY
 )
 

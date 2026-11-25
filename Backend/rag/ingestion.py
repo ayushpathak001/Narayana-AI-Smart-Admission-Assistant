@@ -55,7 +55,7 @@ def split_documents(documents):
 def get_embeddings():
 
     embeddings = NVIDIAEmbeddings(
-        model="nvidia/nemotron-3-embed-1b",
+        model="nvidia/nemotron-3.5-embed-1b",
         api_key=os.getenv("NVIDIA_API_KEY")
     )
 
